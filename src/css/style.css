@@ -1,0 +1,20 @@
+
+
+#btn {
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(46, 46, 46);
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.divs {
+    margin: 20px;
+}
